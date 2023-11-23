@@ -21,7 +21,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd devsummit23-multi-tenant-example
+  cd vertical-slice-architecture-example
 ```
 
 Start with Docker Compose
@@ -32,5 +32,5 @@ Start with Docker Compose
 
 ## Medium Article
 
-[Medium](https://medium.com/@muratdincc)
+[Medium](https://muratdincc.medium.com/net-core-vertical-slice-architecture-203f38f82bac)
 
